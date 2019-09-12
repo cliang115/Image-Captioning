@@ -1,6 +1,6 @@
 # Image-Captioning
 
-### This is for the Udacity course computer vision.
+### Udacity computer vision
 
 Project Overview
 
